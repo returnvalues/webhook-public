@@ -1,0 +1,25 @@
+{
+  "name": "webhook-public",
+  "version": "1.0.0",
+  "description": "public repository for webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "NODE_ENV=development node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/returnvalues/webhook-public.git"
+  },
+  "keywords": [
+    "webhook",
+    "github"
+  ],
+  "author": "hyuksoo.kim@returnvalues.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/returnvalues/webhook-public/issues"
+  },
+  "homepage": "https://github.com/returnvalues/webhook-public#readme"
+}
